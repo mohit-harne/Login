@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import { useInView } from 'react-intersection-observer';
-import './App.css'; // Make sure to create and import this CSS file
+import './App.css'; 
 import n from './assets/n.png';
 import one from './assets/one.png';
 import two from './assets/two.png';
